@@ -108,6 +108,13 @@ document.getElementById('startBtn').addEventListener('click', function() {
   window.location.href = 'game.html'; // تأكد من أن هذا هو الرابط الصحيح للصفحة الخاصة باللعبة
 });
 
+<script type="text/javascript">
+    aclib.runPop({
+        zoneId: '8994718',
+    });
+</script>
+
+
 
 }
 
